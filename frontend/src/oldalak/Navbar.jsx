@@ -8,7 +8,7 @@ const Navbar = () => {
     const [menuOPen,setMenuOPen]= useState(false)
     return (
         <nav>
-            <Link to="/" className="title">Címoldal</Link>
+            <Link to="/" className="title">Felvételi</Link>
             <div className="menu" onClick={() =>
             {
                 setMenuOPen(!menuOPen);

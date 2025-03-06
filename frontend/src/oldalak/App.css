@@ -3,9 +3,8 @@ body{
   }
   
   .bg-fej {
-    background-image: url('top.jpg');
+  
     background-position: center;
-    width: auto;
     height: 400px;
   
   }
@@ -29,7 +28,7 @@ body{
   }
   
   .bg-torzs {
-    background-color: #C5C599;
+  
     align-content: center;
   }
   
@@ -54,9 +53,3 @@ body{
   #valasz{
     visibility:hidden;
   }
-  .div_oldal{
-    margin: 25px 0px;
-    width: 2028px;
-    height: auto;
-  }
-  

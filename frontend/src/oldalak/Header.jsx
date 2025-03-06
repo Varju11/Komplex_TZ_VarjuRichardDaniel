@@ -1,2 +1,12 @@
 import React from "react";
-import '../oldalak/Komplex.css'
+
+
+function Header() {
+    return(
+        <div>
+            <img src="./oktatas01.jpg" alt="oktatas"/>
+        </div>
+
+    );
+}
+export default Header;
